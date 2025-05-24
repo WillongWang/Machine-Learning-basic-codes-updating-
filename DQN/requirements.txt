@@ -1,0 +1,6 @@
+torch
+torchvision
+gymnasium
+gymnasium[classic_control]
+pillow
+opencv-python
